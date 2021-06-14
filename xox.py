@@ -1,5 +1,3 @@
-from random import randint
-
 
 def göster(tahta):
     for i in tahta:
